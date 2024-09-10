@@ -537,27 +537,7 @@ function App() {
       ],
       path: ["APIs and Integrations", "FAQs and Troubleshooting"],
     },
-    "FAQs and Troubleshooting": {
-      text: [
-        {
-          heading: "Common Issues and Solutions",
-          paragraph: [
-            {
-              info: "If you encounter issues such as not being able to log in, resetting your password, or listing a property, refer to our FAQ section. For example, if you can't log in, make sure you’re using the correct email and password combination. If you've forgotten your password, click ‘Forgot Password’ to reset it.",
-            },
-          ],
-        },
-        {
-          heading: "How-To Guides for Specific Tasks",
-          paragraph: [
-            {
-              info: "Our how-to guides provide step-by-step instructions for tasks like creating a new listing, contacting an agent, or managing your profile settings. Each guide includes screenshots and tips to help you navigate the website easily.",
-            },
-          ],
-        },
-      ],
-      path: ["Security Measures", "Appendix"],
-    },
+
     Appendix: {
       text: [
         {

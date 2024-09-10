@@ -9,8 +9,7 @@ export default function Menu({ setDoc }) {
     "Agent/Owner Features",
     "Admin Panel",
     "APIs and Integrations",
-    "Security Measures",
-    "FAQs and Troubleshooting",
+    "Security Measures", 
     "Appendix",
   ];
 
