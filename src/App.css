@@ -20,7 +20,7 @@
   user-select: none;
 }
 
-.docs-menu-list {
+.docs-menu-list { 
   width: 100%;
 }
 
@@ -50,11 +50,10 @@
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
   position: relative;
   transition: 0.3s ease-in-out;
+ 
 }
 
-.doc-list {
-  list-style: none;
-}
+ 
 
 .doc-list > .doc-list-item {
   margin: 10px 0px;
@@ -65,6 +64,12 @@
   margin: 5px 0px;
   display: block;
 }
+
+.doc-list-item > p { 
+  margin: 10px 0px;
+  display: block;
+}
+
 
 .terms-explained {
   border: 1px solid rgba(114, 112, 112, 0.445);
@@ -113,7 +118,7 @@ span {
 }
 
 .deeper-list {
-  margin: 10px 0px;
+  margin: 10px 0px; 
 }
 
 .deeper-list > u {
